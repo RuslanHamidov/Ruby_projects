@@ -1,1 +1,4 @@
-Caesar Cipher function made in Ruby language
+Ruby projects for "Odin project"
+
+- Caesar cipher
+- Bubble sort
