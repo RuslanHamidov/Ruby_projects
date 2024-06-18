@@ -1,4 +1,7 @@
 Ruby projects for "Odin project"
 
 - Caesar cipher
-- Bubble sort- Stock Picker
+- Sub strings
+- Stock Picker
+- Bubble sort
+- TicTacToe game
