@@ -4,4 +4,4 @@ Ruby projects for "Odin project"
 - Sub strings
 - Stock Picker
 - Bubble sort
-- TicTacToe game
+- TicTacToe gameMastermind
